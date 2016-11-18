@@ -22,5 +22,7 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "license": "ISC"
+  "license": "MIT",
+  "url": "https://github.com/dingbat/eslint-plugin-immutable-js/issues",
+  "repository": "dingbat/eslint-plugin-immutable-js",
 }

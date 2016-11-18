@@ -1,5 +1,7 @@
 # eslint-plugin-immutable-js
 
+[![npm version](https://badge.fury.io/js/eslint-plugin-immutable-js.svg)](https://www.npmjs.com/package/eslint-plugin-immutable-js)
+
 ESLint for Immutable.js
 
 ## Installation
@@ -41,7 +43,5 @@ Then configure the rules you want to use under the rules section.
 ```
 
 ## Supported Rules
-
-* Fill in provided rules here
 
 * [no-get-get](docs/rules/no-get-get.md): Prefer `getIn` to chaining `get`s
