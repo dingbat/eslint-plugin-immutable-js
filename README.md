@@ -44,4 +44,4 @@ Then configure the rules you want to use under the rules section.
 
 ## Supported Rules
 
-* [no-get-get](docs/rules/no-get-get.md): Prefer `getIn` to chaining `get`s
+* [no-get-get](docs/rules/no-get-get.md): Prefer `getIn` to chaining `get`s (supports fixing)

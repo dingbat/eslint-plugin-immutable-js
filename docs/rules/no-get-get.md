@@ -22,3 +22,9 @@ The following patterns are not warnings:
 map.getIn(["a", "b"])
 x.get("a").func(x).get("b")
 ```
+
+## Fixing
+
+Fixing is supported, however, it's not super robust yet. It will work for simple
+cases, but please use with caution if you're doing complicated stuff within the
+`get` argument, and please double-check your diffs before committing!
