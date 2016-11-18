@@ -1,6 +1,6 @@
 # eslint-plugin-immutable-js
 
-[![npm version](https://badge.fury.io/js/eslint-plugin-immutable-js.svg)](https://www.npmjs.com/package/eslint-plugin-immutable-js)
+[![npm version](https://badge.fury.io/js/eslint-plugin-immutable-js.svg)](https://www.npmjs.com/package/eslint-plugin-immutable-js) [![build status](https://api.travis-ci.org/dingbat/eslint-plugin-immutable-js.svg)](https://travis-ci.org/dingbat/eslint-plugin-immutable-js)
 
 ESLint for Immutable.js
 
